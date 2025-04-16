@@ -1,0 +1,7 @@
+body {
+    background-image: url("blackjack.jpg");
+    background-position: 50%;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
