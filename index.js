@@ -1,6 +1,6 @@
 
-let firstCard = 12
-let secondCard = 5
+let firstCard = 10
+let secondCard = 11
 let sum = firstCard + secondCard
 let hasBlackJack = false
 
